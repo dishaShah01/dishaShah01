@@ -14,10 +14,11 @@
 📖 Bibliophile<br>
 😄 Find me on <a href="linkedin.com/in/disha-shah-09034b196">Linkedin</a><br><br><br>
 
+
 <strong>📊 My Github Stats :</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dishaShah01&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dishaShah01&theme=radical&hide_border=true"/><br><br>
-
+![Visitor Count](https://komarev.com/ghpvc/?username=dishaShah01&color=blueviolet)<br><br>
 <strong>💡 My Languages :</strong><br><br>
 <img src="https://img.shields.io/badge/-Python-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
