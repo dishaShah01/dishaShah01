@@ -12,7 +12,7 @@
 📷 Shutterbug.<br>
 🧠 Curious about the science of the mind.<br> 
 📖 Bibliophile<br>
-😄 Find me on <a href="linkedin.com/in/disha-shah-09034b196">Linkedin</a><br><br><br>
+😄 Find me on <a href="https://www.linkedin.com/in/disha-shah-09034b196/">Linkedin</a><br><br><br>
 
 
 <strong>📊 My Github Stats :</strong><br><br>
